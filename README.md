@@ -161,14 +161,6 @@ npm run dev
 
 ---
 
-## Author
-
-**Dhanush Repalle**
-
-GitHub: https://github.com/DhanushDev311
-
----
-
 ## License
 
 MIT License
